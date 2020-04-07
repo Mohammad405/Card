@@ -1,1 +1,37 @@
-/* add your CSS here */
+
+.container {
+    width: 30%;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 5px gray ;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+h3{
+    font-size: 30px;
+    margin:20px 0 20px 0;
+}
+
+img {
+    margin:20px 0 20px 0;
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+#info {
+    border:1px solid gray;
+    padding: 10px;;
+    box-shadow: inset 2px 2px 2px gray;
+}
